@@ -1,4 +1,4 @@
-# The application consists of the Rest API backend project and a reactJs frontend project.
+# The application consists of a Rest API backend project and a reactJs frontend project.
 # The backend project is built with Java SpringBoot RestControllers
 # A docker image of the backend project is kept in docker hub kevin812/coin-app:latest
 # Both front and backend projects are in the github repository - https://github.com/ko812/coin-app.git & https://github.com/ko812/coin-react.git
